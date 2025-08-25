@@ -1,0 +1,25 @@
+
+
+# DomainStatus
+
+## Enum
+
+
+* `PENDING_VERIFICATION` (value: `"PENDING_VERIFICATION"`)
+
+* `IN_PROGRESS` (value: `"IN_PROGRESS"`)
+
+* `AVAILABLE` (value: `"AVAILABLE"`)
+
+* `PENDING_DEPLOYMENT` (value: `"PENDING_DEPLOYMENT"`)
+
+* `FAILED` (value: `"FAILED"`)
+
+* `CREATING` (value: `"CREATING"`)
+
+* `REQUESTING_CERTIFICATE` (value: `"REQUESTING_CERTIFICATE"`)
+
+* `UPDATING` (value: `"UPDATING"`)
+
+
+
